@@ -1,0 +1,41 @@
+body{
+  background: url(https://hdqwalls.com/download/material-design-4k-2048x1152.jpg)
+}
+
+.form-signin{
+  margin: 200px auto;
+  max-width: 400px;
+  padding: 20px;
+}
+
+.top{
+  margin:10px;
+
+}
+
+.bottom{
+  margin: 10px;
+  
+}
+
+.headline{
+  margin: auto;
+  width: 300px;
+  display: block;
+  color: #fff;
+  background-color: #25316D;
+}
+.today{
+  margin: auto;
+  width: 300px;
+  display: block;
+  color: #fff;
+  background-color: red;
+}
+.card{
+  display: inline-block;
+  margin: 10px;
+}
+.card-text{
+  font-weight: bold;
+}
